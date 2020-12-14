@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">intentpart</string>
+    <string name="pilih_warna">Pilih Warna</string>
+    <string name="merah">Merah</string>
+    <string name="biru">Biru</string>
+    <string name="pilih">Pilih</string>
+    <string name="hijau">Hijau</string>
+    <string name="hitam">Hitam</string>
+    <string name="simple_intent">Simple Intent</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="intent_with_result">intent with result</string>
+    <string name="implicit_intent">implicit Intent</string>
+    <string name="itent_with_parceable">Itent With Parceable</string>
+    <string name="textview">TextView</string>
+    <string name="harga">Rp. 70.000.,</string>
+    <string name="content">Wardah Colorfit Velvet Matte Lip Mousse adalah satu-satunya lip produk halal yang nyaman dan
+        longlasting di bibir untuk semua aktivitas. Memiliki finishing comfort matte, yaitu hasil akhir matte namun tidak
+        terasa lengket dan kering ataupun membuat bibir tampak pecah-pecah. Dilengkapi dengan inovasi tekstur baru velvet
+        powdery yang terasa lembut, ringan, dan lembab di bibir.
+    </string>
+    <string name="speks">
+        Keunggulan Produk
+        1. Comfort Matte
+        2. Longlasting
+        3. Velvet Powdery
+
+    </string>
+    <string name="shades">
+        01 Brown Dreamer (warna nude coklat-pink)
+        02 Joyful Orange (warna peach)
+        03 Rose Ballerina (warna nude pink)
+        04 Pink Sweetheart (warna medium pink)
+        05 Artisan Mauve (warna mauve)
+        06 Fuchsia Lover (warna pink fuchsia)
+        07 Red Pioneer (warna merah)
+        08 Brown Creator (warna medium coklat)
+        09 Ombre Charmer
+        10 Lively Coral
+        11 Cherish Marmalade
+        12 Chic Terracotta
+        13 Sweet Cinnamon
+        14 Dainty Caramel
+
+    </string>
+</resources>
